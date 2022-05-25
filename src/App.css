@@ -3,20 +3,23 @@
   --white: #fff;
   --darkpurple: rgb(107, 5, 107);
 }
+
 .header-title {
   font-weight: 700;
 }
+
 nav {
   background-color: var(--darkpurple);
   width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: var(--white);
 }
 
 nav a {
   padding: 1rem;
   display: flex;
   gap: 3rem;
-}
-a {
-  text-decoration: none;
-  color: var(--white);
 }
