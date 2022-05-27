@@ -1,6 +1,6 @@
-import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
+import CountryDetails from './pages/CountryDetails';
 import Header from './components/Header';
 
 function App() {
@@ -9,6 +9,7 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/country/:countryId" element={<CountryDetails />} />
       </Routes>
     </div>
   );

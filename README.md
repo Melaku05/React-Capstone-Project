@@ -2,8 +2,8 @@
 
 ##  Covid Data App
 
--This is a mobile web application that displays a list of Covid Data generated for the world country,and  to check numaric details of Covid-19 in each countrie from an API.
 
+-This is a mobile web application that displays a list of Covid Data generated for the world country,and  to check numaric details of Covid-19 in countries from an API.
 -This API provides data on COVID-19.
 
 ## [Live Demo - Netlify](comming soon/)
@@ -40,7 +40,7 @@ coming soon
 ```
 to run the project locally, clone the project using the command
 
-`git clone hhttps://github.com/Melaku05/React-Capstone-Project.git`
+`git clone https://github.com/Melaku05/React-Capstone-Project.git`
 
 cd Library
 
@@ -56,7 +56,7 @@ Hurray!!! You are now good to go.
 
 - GitHub: [@melaku05](https://github.com/melaku05)
 - Twitter: [@melaku](https://twitter.com/melaku05)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/melaku-eshetu-b34b36223/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/melaku-eshetu/)
 
 ## 🤝 Contributing
 
