@@ -69,7 +69,7 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
+- Inspired by original design for Creative Commons by Nelson Sakwa on [Behance](<https://behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>)
 - Hat tip to anyone whose code was used
 - Microverse program
 - My standup team
