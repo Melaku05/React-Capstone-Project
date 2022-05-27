@@ -1,8 +1,23 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Financial-Modeling
+##  Covid Data App
 
--Data provided by Financial Modeling Prep.
+-This is a mobile web application that displays a list of Covid Data generated for the world country,and  to check numaric details of Covid-19 in countries from an API.
+
+-This API provides data on COVID-19.
+
+## [Live Demo - Netlify](comming soon/)
+<!-- ## [Live Demo ]() -->
+
+## Live Presentation Video
+
+[Link] (comming soon)
+
+## Milestones completed:
+- Create a new React App using CRA.
+- Install app dependencies.
+- Build file structure for app.
+- Create routes and navigation in app.
 
 # ScreenShots
 
@@ -10,7 +25,7 @@ cooming soon
 
 ## Built With &hearts;
 
-- React
+- ReactJs
   -Redux
 - Router
 - JavaScript
@@ -25,7 +40,7 @@ coming soon
 ```
 to run the project locally, clone the project using the command
 
-`git clone https://github.com/Melaku05/Financial-Modeling.git`
+`git clone https://github.com/Melaku05/React-Capstone-Project.git`
 
 cd Library
 
@@ -41,7 +56,7 @@ Hurray!!! You are now good to go.
 
 - GitHub: [@melaku05](https://github.com/melaku05)
 - Twitter: [@melaku](https://twitter.com/melaku05)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/melaku-eshetu-b34b36223/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/melaku-eshetu/)
 
 ## 🤝 Contributing
 
