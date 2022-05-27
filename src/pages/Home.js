@@ -32,7 +32,7 @@ const Home = () => {
             <ul className="home-list">
               {valueArray
                 .filter((country) => {
-                  if (input === "") {
+                  if (input === '') {
                     return country;
                   }
                   if (
@@ -40,7 +40,7 @@ const Home = () => {
                   ) {
                     return country;
                   }
-                  return "";
+                  return '';
                 })
                 .map((country) => (
                   <div className="columns" key={country.id}>

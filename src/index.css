@@ -8,7 +8,7 @@
 }
 
 :root {
-  --purple:rgb(128, 0, 128);
+  --purple: rgb(128, 0, 128);
   --white: #fff;
   --darkpurple: #fd33a2;
 }
@@ -41,6 +41,7 @@ li {
 .columns:focus {
   border: 1px solid var(--white);
 }
+
 .columns:nth-child(4n),
 .columns:nth-child(4n+1) {
   background-color: var(--darkpurple);
