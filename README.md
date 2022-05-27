@@ -40,7 +40,7 @@ coming soon
 ```
 to run the project locally, clone the project using the command
 
-`git clone https://github.com/Melaku05/Financial-Modeling.git`
+`git clone hhttps://github.com/Melaku05/React-Capstone-Project.git`
 
 cd Library
 
