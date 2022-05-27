@@ -6,12 +6,12 @@
 -This is a mobile web application that displays a list of Covid Data generated for the world country,and  to check numaric details of Covid-19 in countries from an API.
 -This API provides data on COVID-19.
 
-## [Live Demo - Netlify](comming soon/)
+## [Live Demo - Netlify](https://stellular-cannoli-3adc87.netlify.app//)
 <!-- ## [Live Demo ]() -->
 
 ## Live Presentation Video
 
-[Link] (comming soon)
+[Link] (https://www.loom.com/share/be2894edeaad418cb85dc4e34b25b682)
 
 ## Milestones completed:
 - Create a new React App using CRA.
@@ -69,7 +69,7 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
+- Inspired by original design for Creative Commons by Nelson Sakwa on [Behance](<https://behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>)
 - Hat tip to anyone whose code was used
 - Microverse program
 - My standup team
