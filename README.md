@@ -2,8 +2,8 @@
 
 ##  Covid Data App
 
--This is a mobile web application that displays a list of Covid Data generated for the world country,and  to check numaric details of Covid-19 in countries from an API.
 
+-This is a mobile web application that displays a list of Covid Data generated for the world country,and  to check numaric details of Covid-19 in countries from an API.
 -This API provides data on COVID-19.
 
 ## [Live Demo - Netlify](comming soon/)
